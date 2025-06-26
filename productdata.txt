@@ -1,0 +1,1 @@
+{"product_name": "jeans", "product_des": "denim", "product_price": 1000, "seller": "ram"}-{"product_name": "gown", "product_des": "floral", "product_price": 1500, "seller": "ram"}-{"product_name": "book", "product_des": "personal growth", "product_price": 2000, "seller": "anisha"}-{"product_name": "sandals", "product_des": "heels", "product_price": 1000, "seller": "anisha"}-

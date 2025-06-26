@@ -1,0 +1,1 @@
+{"product": "gown", "quantity": 3, "total": 4500, "buyer": "shyam"}-{"product": "sandals", "quantity": 2, "total": 2000, "buyer": "hari"}-
